@@ -11,7 +11,7 @@ tasks that will need to be completed in order to find the outcome of the electio
 - Determine the winner of the election based on popular vote
 
 ## Reosurces 
-- Date Source: [!link]
+- Date Source: election_results.csv
 - Software: Python 3.7.6, Visual Studio Code 1.50.1
 
 ## Summary 
@@ -22,4 +22,4 @@ The analysis of the election show that:
 
 
 ## Analysis Reuslts 
-[!link to txt file screneshot]
+[!results](https://github.com/DonnieData/Election_Analysis/blob/main/analysis/election_results.png)
