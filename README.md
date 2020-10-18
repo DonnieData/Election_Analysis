@@ -17,8 +17,9 @@ tasks that will need to be completed in order to find the outcome of the electio
 ## Analysis Overview  
 The analysis of the election show that: 
 - There were 369,711 total votes cast 
+- Denver county had the most votes 
 - There were 3 candidates who received votes in the election 
-- The winning candidate won with 73.8% (272,892) of the votes 
+- The winning candidate Diana Degatte, won with 73.8% (272,892) of the votes 
 
 
 ## Analysis Results 
