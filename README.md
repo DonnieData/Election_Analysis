@@ -22,6 +22,6 @@ The analysis of the election show that:
 
 
 ## Analysis Results 
-![Analysis code ](https://github.com/DonnieData/Election_Analysis/blob/main/PyPoll_Challenge.py)
+[Analysis code](https://github.com/DonnieData/Election_Analysis/blob/main/PyPoll_Challenge.py)
 ![results](https://github.com/DonnieData/Election_Analysis/blob/main/analysis/election_results.png)
 
