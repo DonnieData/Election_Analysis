@@ -14,13 +14,14 @@ tasks that will need to be completed in order to find the outcome of the electio
 - Date Source: election_results.csv
 - Software: Python 3.7.6, Visual Studio Code 1.50.1
 
-## Summary 
+## Analysis Overview  
 The analysis of the election show that: 
-- There were 369,711 votes
+- There were 369,711 total votes cast 
 - There were 3 candidates who received votes in the election 
 - The winning candidate won with 73.8% (272,892) of the votes 
 
 
 ## Analysis Results 
+![Analysis code ](https://github.com/DonnieData/Election_Analysis/blob/main/PyPoll_Challenge.py)
 ![results](https://github.com/DonnieData/Election_Analysis/blob/main/analysis/election_results.png)
 
