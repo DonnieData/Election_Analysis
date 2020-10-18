@@ -22,5 +22,5 @@ The analysis of the election show that:
 
 
 ## Analysis Results 
-[!results](https://github.com/DonnieData/Election_Analysis/blob/main/analysis/election_results.png)
+![results](https://github.com/DonnieData/Election_Analysis/blob/main/analysis/election_results.png)
 
