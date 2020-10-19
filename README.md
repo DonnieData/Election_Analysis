@@ -26,4 +26,4 @@ The analysis of the election show that:
 ![results](https://github.com/DonnieData/Election_Analysis/blob/main/analysis/election_results.png)
 
 
-[The python script](https://github.com/DonnieData/Election_Analysis/blob/main/PyPoll_Challenge.py) used to audit election votes was created to work flexibly with csv/tabular data files. Through making minor adjustments based on the input file, this script can  automate audtiing for any kind of election.
+[The python script](https://github.com/DonnieData/Election_Analysis/blob/main/PyPoll_Challenge.py) used to audit election votes was created to work flexibly with csv/tabular data files. Through making minor adjustments based on the input file, this script can  automate auditing for any kind of election.
